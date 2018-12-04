@@ -1,0 +1,302 @@
+const input = `xdmgyjkpruszabaqwficevtjeo
+xdmgybkgwuszlbaqwfichvtneo
+xdmgyjkpruszlbcwwfichvtndo
+xdmgcjkprusyibaqwfichvtneo
+xdmgyjktruszlbwqwficuvtneo
+xdmgxjkpruszlbaqyfichvtnvo
+xdmgytkpruszlbaqwficuvtnlo
+xdmgydkpruszlbaqwfijhvtnjo
+xfmgyjkmruszlbaqwfichvtnes
+xdmgyrktruszlraqwfichvtneo
+xdmgyjkihuszlbaqdfichvtneo
+hdmgyjkpruszeiaqwfichvtneo
+xdmzyjkpruszlbaqwgichvtnxo
+xdmgyjknquszlbpqwfichvtneo
+idmgyjrpruszlbtqwfichvtneo
+xkmgyjkpruuzlbaqwfichvfneo
+xdmgyjkpruszlfaqwficnvtner
+xdmgyjkpruszlbpqwficwvteeo
+xdmgyjkpwuszlbiqwfhchvtneo
+xdmgyjkpruszwbaqwfichrtnbo
+xdpgyjkprusblbaqwfgchvtneo
+xdmryjkcruszlbaqwfichvtnee
+xwmgylkpruszlbaqwfcchvtneo
+xdmgyjkpruszflaqwfixhvtneo
+xdmgyjkmruszloaqwfichvteeo
+xvmgrjkpruszlbaqwfichvsneo
+xdmvyjkprusmlbaqwfichvtnes
+xdmgyjkpruszlbaqwfichkgbeo
+xdmgyikpruxzlbaqwfichvtnei
+xdmgyjkprugzlbaqhfichvtveo
+xdmgyjkpruszlbaqjaichftneo
+xdmzijkpruszlbaqwwichvtneo
+xdmgyjkprsszlbaqwfihhvlneo
+xdmgyjkprusqlwaqzfichvtneo
+ximgyjkpruszlbawwfichvtnen
+xsmgyjzpruszlbaqwfichvaneo
+xdmgyjkpruszlcaoyfichvtneo
+xdmgyjkprusmlbaqvnichvtneo
+xdmgyjkvruszmbaqwfichvtueo
+xdmgyjppuuszleaqwfichvtneo
+xddgyjkprubzlbaqwfichvaneo
+xdmgwjkpruszebaswfichvtneo
+xdogyjkpruszlblqwfichvdneo
+xdkgyjgpruszlbaqwfizhvtneo
+xdvgyjkpruszlbdqwfichvtqeo
+xdmgyjlpruszlbapwficgvtneo
+xdmgyjkpruszlbaqofickvtngo
+xdmgyjkprqszliaywfichvtneo
+xdqgyjkpruszlbcqwficnvtneo
+xdmgdjkpruszlbaqwxichvtseo
+xdmgyjkpruczlbaqwfichdtnfo
+xdmgyjkpruszluaqwficzvtnjo
+xdmgyjkproszlbaqwfacevtneo
+xfmgijkpruszlbrqwfichvtneo
+odmgyjkpluszlbaqwfichvuneo
+xdmgyjkpruszlbaqwwichukneo
+xdmgdjkpruszwbaqwfichvtnet
+xdmgyjkzrusvlbaqwrichvtneo
+xdmgylkprutzlbaqwfichvtnbo
+xdmgyjkpruszsbaqwfijtvtneo
+xdmgyjkproszlbjqwfichntneo
+xdmgyhkpluszlbaqwfichvtnlo
+xdmgyjhprushlbaqwfichvtnzo
+gdmoyjkpruszlbarwfichvtneo
+cdmgyjkpruszlbaqwfcchvtned
+xgmgyjkpruszlbaqwfschvtnek
+xdmgyjkprusnlzamwfichvtneo
+xdmgyjkprgszlbaxwfichvuneo
+txmgyjksruszlbaqwfichvtneo
+xdmgyjkprusbbbpqwfichvtneo
+xdmoyjkpruszlbaqwfighvtxeo
+xdmgyjkpruslhbaqwfichptneo
+xdmgzjkpruszlbaqwffcmvtneo
+xdmgyjkiruszlbaqgficuvtneo
+vdbgyjkpruszlbaqwfichvtnek
+xdmgyjspruszlbaqwfochvtney
+xdmgyjkpruszibaqwfivhvteeo
+xdmgyjkpruszfbaqwficbvtgeo
+xdmgyjkprystlbaqwxichvtneo
+xdmfyjkpryszlxaqwfichvtneo
+xdmgyjgpruspybaqwfichvtneo
+xdmgyjklruszlbjqwdichvtneo
+xdmgyjkzruszltaqwfichvtnek
+xdmgqjkpruszlzaqwfichvtneh
+xdmgyjhnruszlbaqwficqvtneo
+xdmgyjkproszlbaqweichvtnez
+xdmgyjkprurzlbaawfichytneo
+xdmgyfkpruszlbaqwfschutneo
+xdmnyjkpruszlbaawjichvtneo
+xdmgyjkpybszlbaqwfichvwneo
+xdmgtjkhruszlbaqwfichatneo
+xamgyjkprurzlbaqwfichvaneo
+xdmgyjkpruszlbaqwgichvtnqv
+ndmgyjkpruszlsaqwfuchvtneo
+xdmgygkpgusrlbaqwfichvtneo
+xdmgyjkpruszfbaqwfichvtnmy
+xdmgyjkprupflbaqwfichvjneo
+ndmgyjkpruszlbagwfichvtnxo
+xdmgyjkpruszlbafwfilhvcneo
+xdmgyjkpruszlbaqwfichvjsea
+xebgyjkpruszlbaqafichvtneo
+xdmkyjdpruszlbaqwfichvtnei
+xomgyjkprufzlbaqwfochvtneo
+xdmgyjkprfsllbaqwfiihvtneo
+xdmyyjkpruszebaqwficmvtneo
+xdmnyjkpruczlbarwfichvtneo
+xdmgyjkpruszcbaqwbichvtneg
+xdmgxjkpluszlbapwfichvtneo
+xgrlyjkpruszlbaqwfichvtneo
+xdmgyjkpruszlraqwxcchvtneo
+xdmhyjupruszlbaqafichvtneo
+xdmgnjkpruszlbkqwfjchvtneo
+xdmgyjkpruszlwaqwfichvtndg
+xdmgfjkpruvqlbaqwfichvtneo
+xdmgejkptuszlbdqwfichvtneo
+xlmgyjkpruszlnaqwfochvtneo
+xdmgcjkpruszlbaqwfiqhvaneo
+xdmgyjupruyzlbaywfichvtneo
+gdmgyjkpruyzlbaqwficevtneo
+xdmgyjkaruazlbapwfichvtneo
+xsmiyjkpruszlbaqwfichvtveo
+xdmiyjkprukzlbaqwfichvtnea
+xdbgmjkxruszlbaqwfichvtneo
+xdmgyjkpruskvbaqwfichdtneo
+xdmgyjkprusznbaqwficshtneo
+xdmgyjkprusrlbaqwfzchetneo
+xdmgyrkpruszzbaqwfichvtned
+xdmgyjkprusolbacwmichvtneo
+xdmgypkpruszlbaqwfichvtmgo
+xdmgyjkprumzlbhqwfichttneo
+xdmgydkprusglbaqwfichvtnei
+xdmuyjkpruszlbpqwfichvtyeo
+xdmtymkprusslbaqwfichvtneo
+xdmgyjjprkszlbaqwfqchvtneo
+xdmgvjdpruszlbaqwfichgtneo
+xdtgyjkpruwzlbaqwfjchvtneo
+xdmgyjkpruszlbafseichvtneo
+xdmgvjkpruszlraawfichvtneo
+xdmgyukprgszlbatwfichvtneo
+xhmgyjkpruszliaqwnichvtneo
+xdmgyjspruszlbwqyfichvtneo
+xdmgyjkjruszlqaqwfichvtnvo
+xdmgyjkiruszlbnqwfichmtneo
+ximgyjkpruszlbaqwfvcevtneo
+xdmdyjkpruszlbaqwsithvtneo
+ndmgyjkpruszlbaqwfilhatneo
+xdmgyjkpruszlbaqwfinhvcnez
+xdmgypkpsuszlbajwfichvtneo
+xdpgmjkpluszlbaqwfichvtneo
+xdmgyjnprupzlbaqwfichvtnel
+xbmgyjkprmszlfaqwfichvtneo
+xdmgyjkpausllbaqwfichvtseo
+xdmgyjkpruszlbaqwfqchttnes
+xgmgyjkpruszlbaxwfichvtneb
+xdmgyjkpruszabqqwfichvineo
+xdmgpjkpquszlbaqwfichvdneo
+xdmgyjkeruszlbaqdficbvtneo
+xdmaujkpruszlbaqwfichvteeo
+xdmgyjkpruszlbaqwrirhvtnev
+xdmgyjkpsugzllaqwfichvtneo
+xdmgyjkpruszlbaqwfichctnlm
+xdmeyjkpruszlbacwfiwhvtneo
+xdmgyjkpiuhzlbaqwfijhvtneo
+xdmgyjkpruszlbmqhfiohvtneo
+xdegyjkpbuszlbbqwfichvtneo
+xdmggxkpruszlbaqwfirhvtneo
+xdmgojkpruszlbaqvfichvtteo
+xdmgyjhtruszlbaqwmichvtneo
+rdmgyjkpruszlbaqwfichvthek
+xdlgyjqpruszlbaqwfbchvtneo
+xdmgyjspriszlbavwfichvtneo
+rdkgyjkpruszlbaqwfichvtnuo
+tdmgyjkuruszlbaqwfichvtnev
+xdmgyjkpxuszlbaqwfkchvtnso
+xdegyjkpruszlbbqxfichvtneo
+xdmgyjkpruszlbaqwficpvtket
+xdmgyjkpruszliaqwfnchvtnec
+xdmgyjkpreszlbaqwficdvtdeo
+rdmgyjkpruszlbaywfychvtneo
+xdmgywkpruszlbaqwficrvtaeo
+xdmgyjkpruszlbanwflchvoneo
+xdmgyjkpruyzlbaqufychvtneo
+symgyjkpruszlbaqwfichvtqeo
+xdmgyjkpruszlbaqwfichvbzqo
+xzfgyjkpruszlbaqwfichvtveo
+udmgyjepruszlbaqwfichbtneo
+xhmgyjkpruszlbaqwfjchvtnef
+xdhgyjkpruszlbaqaftchvtneo
+xdmzyjkjruszlbaqwfichvtnwo
+xdmgyjepruszlbaqwffchvtnef
+xdmgyjkprurzlbaqwfikhvtneq
+xomoyjkpruszkbaqwfichvtneo
+xdmgyjkpiuszubaqwfichktneo
+xdmgyjkprusdlbaqwhihhvtneo
+xdmgyjkpruszlbaqwwirhvxneo
+xdmgyjkpruszlbaqwficgitzeo
+xdmgyjlpruszlbaqwfichpjneo
+xjmgyjkpxuszlbaqwfichatneo
+xdmgylkpruszlbaqwfiehvtnez
+xdmgbjkpruszmbaqwfihhvtneo
+xdmgyjkprubzlwaqwfichvtxeo
+xdmgyjhlrustlbaqwfichvtneo
+xdmmyjkpruszlbaqwfdchitneo
+xdmgyjkpruszlbaqwoichhtbeo
+xdzgyjkprvszlcaqwfichvtneo
+ndmgyjkpruszlbaqwficavxneo
+xdmgyjfpruszxbaqzfichvtneo
+xdmgyjkpeuszlbaqzficdvtneo
+xdmgyjkpruszlbmqffidhvtneo
+xdnvyjkpruszlbafwfichvtneo
+xdygyjkpruszlbljwfichvtneo
+xdigyjkpruszlbeqwfuchvtneo
+xdmgyjkpruszlbpzwfichvteeo
+bdmgyjbpruszldaqwfichvtneo
+xdmgyjkprrszlbaqmpichvtneo
+idmgyjkpruszlbaqyfichvtkeo
+xdmgyjkmrqsclbaqwfichvtneo
+xdmgyjkpruazlbeqwfichvtxeo
+ddmgyjkpruszlbsqwfichotneo
+xdmgyqkpruszjbaqwfxchvtneo
+xdmnyjkpruozlbaqwfichvtreo
+edmgyjkpruszlbuqwwichvtneo
+xdmgyjkprmshlbaqwfichctneo
+xdmgyjkpruszlbaqwffghotneo
+xdmcyjkprfszlbaqnfichvtneo
+xdmgyjypruszhbaqwficyvtneo
+xdmgyjkprzszlyaqwficmvtneo
+xlmgyjkprzszlbaqwficyvtneo
+xdmgyjkprutulbaqwfithvtneo
+xdygyjkpruszlbpqwfichvpneo
+xdmgsjkpoumzlbaqwfichvtneo
+xdmgyjkpyuszlbaqdfnchvtneo
+xdxgyjkpruszlbaqwfizhvtnjo
+xdmgyjkpruszlbaqwfschvkndo
+xdmgpjkprnszlcaqwfichvtneo
+xhmgyjkpruszlbaqwficgvtnet
+xdmgyjkpruswlbaqwfichvtqer
+ddmgyjkprcszlbaqwfichqtneo
+xdmgyjkpruhhlbaqwpichvtneo
+xdmgyjkeraszlbaqwfichvtnso
+nomgyjkpruszlbaqwficavxneo
+xdmgyjkprdszlbaqwfobhvtneo
+xdmgyjkprgszlbaqwfichvtdao
+xomgyjspruswlbaqwfichvtneo
+xdzgyjkpruszlbaqwficwvpneo
+admgejkpruszlbaqwfimhvtneo
+xdtgyjkpruszlmaqwfiqhvtneo
+xdmgymkprusqlbaqwtichvtneo
+xdmgyjkpluszlbaqwfidhvtnea
+ztmgyjjpruszlbaqwfichvtneo`;
+
+const ids = input.split("\n");
+
+let twos = 0;
+let threes = 0;
+
+ids.forEach(id => {
+  let str = id.split("");
+  // Find counts for all characters in string
+  const counts = str.reduce((result, char) => {
+    result[char] = result[char] === undefined ? 1 : result[char] + 1;
+    return result;
+  }, {});
+
+  const has2 = Object.values(counts).some(res => res === 2);
+  const has3 = Object.values(counts).some(res => res === 3);
+  if (has2) {
+    twos++;
+  }
+  if (has3) {
+    threes++;
+  }
+});
+console.log("Part 1", twos * threes);
+
+function findSimilar(ids) {
+  // Note: Not optimal from performance point of view, because each combination can get handled twice (n^2)
+  // Is however easier to read than index based looping, and input is not too large,
+  // so is good enough for this purpose
+  for (let id1 of ids) {
+    for (let id2 of ids) {
+      if (isSimilar(id1, id2)) {
+        return sharedChars(id1, id2);
+      }
+    }
+  }
+}
+
+// Exactly 1 character is different
+function isSimilar(str1, str2) {
+  return str1.length - sharedChars(str1, str2).length === 1;
+}
+
+function sharedChars(str1, str2) {
+  return str1
+    .split("")
+    .filter((char, i) => char === str2[i])
+    .join("");
+}
+
+let result = findSimilar(ids);
+console.log("Part 2", result);
