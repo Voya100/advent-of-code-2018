@@ -1,14 +1,33 @@
 // https://adventofcode.com/2018/day/4
 
 const fs = require("fs");
-const input = fs.readFileSync("inputs/day4.txt", "utf8");
+const { findMax } = require("./helpers");
 
+const input = fs.readFileSync("inputs/day4.txt", "utf8");
 const records = input.split("\n");
 
 // Sort into chronological order
 records.sort();
 
 const guards = getGuardsFromRecords(records);
+const sleepiestGuard = findMax(guards, guard => guard.totalSleep);
+
+const guardsMostSleepedMinute = mostSleepedMinute(sleepiestGuard).minute;
+console.log("part 1", sleepiestGuard.id * guardsMostSleepedMinute);
+
+// Add most sleeped minute information for each guard
+guards.forEach(guard => (guard.mostSleepedMinute = mostSleepedMinute(guard)));
+
+const sleepiestGuardOnSameMinute = findMax(
+  guards,
+  guard => guard.mostSleepedMinute.frequency
+);
+
+console.log(
+  "part 2",
+  sleepiestGuardOnSameMinute.id *
+    sleepiestGuardOnSameMinute.mostSleepedMinute.minute
+);
 
 function getGuardsFromRecords(records) {
   const guards = {};
@@ -52,26 +71,6 @@ function getGuardsFromRecords(records) {
   return Object.values(guards);
 }
 
-const sleepiestGuard = findMax(guards, guard => guard.totalSleep);
-
-// value function must return a number when it takes value from array as parameter
-function findMax(array, valueFunction) {
-  let max = 0;
-  let result = array[0];
-
-  for (let element of array) {
-    const value = valueFunction(element);
-    if (value > max) {
-      max = value;
-      result = element;
-    }
-  }
-  return result;
-}
-
-const guardsMostSleepedMinute = mostSleepedMinute(sleepiestGuard).minute;
-console.log("part 1", sleepiestGuard.id * guardsMostSleepedMinute);
-
 // Returns { minute, minuteFrequency }
 function mostSleepedMinute(guard) {
   // Find counts for each minute
@@ -86,17 +85,3 @@ function mostSleepedMinute(guard) {
   ) || [0, 0];
   return { minute, frequency };
 }
-
-// Add most sleeped minute information for each guard
-guards.forEach(guard => (guard.mostSleepedMinute = mostSleepedMinute(guard)));
-
-const sleepiestGuardOnSameMinute = findMax(
-  guards,
-  guard => guard.mostSleepedMinute.frequency
-);
-
-console.log(
-  "part 2",
-  sleepiestGuardOnSameMinute.id *
-    sleepiestGuardOnSameMinute.mostSleepedMinute.minute
-);
