@@ -13,6 +13,10 @@ function findMax(array, valueFunction, startMax = 0) {
   return result;
 }
 
+function findMin(array, valueFunction, startMin = Infinity) {
+  return findMax(array, element => -1 * valueFunction(element), -startMin);
+}
+
 // Returns all elements from array that get (same) highest value from valueFunction
 function findAllMax(array, valueFunction, startMax = 0) {
   let max = startMax;
@@ -32,5 +36,6 @@ function findAllMax(array, valueFunction, startMax = 0) {
 
 module.exports = {
   findMax,
+  findMin,
   findAllMax
 };
