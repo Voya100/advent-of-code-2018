@@ -1,4 +1,5 @@
-// https://adventofcode.com/2018/day/5
+// https://adventofcode.com/2018/day/7
+
 const fs = require("fs");
 const { findMin } = require("./helpers");
 
