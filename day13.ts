@@ -1,4 +1,4 @@
-// https://adventofcode.com/2018/day/12
+// https://adventofcode.com/2018/day/13
 import * as fs from 'fs';
 
 const input = fs.readFileSync('inputs/day13.txt', 'utf8');
