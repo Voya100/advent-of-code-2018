@@ -5,7 +5,7 @@
     "module": "commonjs",
     "declaration": false,
     "noImplicitAny": true,
-    "noUnusedParameters": true,
+    "noUnusedParameters": false,
     "removeComments": true,
     "noLib": false,
     "allowSyntheticDefaultImports": true,
